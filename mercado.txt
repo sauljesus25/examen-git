@@ -5,6 +5,10 @@ manzana
 uva
 tuna
 mandarina
+durazno
+piña
+guayaba
+caña
 
 verduras
 papa  
@@ -13,6 +17,10 @@ jitomate
 tomate
 calabaza
 chayote
+zanahoria
+chile poblano
+chile serrano 
+chile arbol
 
 vegetales 
 lechuga 
