@@ -1,13 +1,13 @@
 frutas 
 naranja
-fresa	
+fresa.	
 manzana
 uva
 tuna
 mandarina
 
 verduras
-papa 
+papa  
 pepino 
 jitomate 
 tomate
