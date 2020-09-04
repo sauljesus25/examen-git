@@ -21,3 +21,7 @@ coliflor
 aguacate 
 cebolla
 pimiento 
+apio 
+cilantro
+perjil
+hierbabuena
