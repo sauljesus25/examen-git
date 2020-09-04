@@ -5,6 +5,10 @@ manzana
 uva
 tuna
 mandarina
+durazno
+piña
+guayaba
+caña
 
 verduras
 papa 
